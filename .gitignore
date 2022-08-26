@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# Environment Files
+*.env
+.env
+
+
 # Object files
 *.o
 *.ko

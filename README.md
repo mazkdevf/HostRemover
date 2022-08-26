@@ -1,6 +1,23 @@
-# HostRemover
+## HostRemover
 
-##### If you get "Hello" while connecting to KeyAuth Use this application, it takes under 1minute to get access to KeyAuth.
-###### I Have Builded Version for Easy Usage [Release](https://github.com/mazk5145/HostRemover/releases/tag/Releases)
+- Fix KeyAuth Connection Issues, For example if you are getting (Hello!) Message.
 
-##### Created For [KeyAuth](https://keyauth.win)
+
+
+### Contributing
+1. Fork the repository
+2. Clone the repository to folder
+3. Do your changes
+4. Test your Code
+5. Create Pull Request
+6. Thank You!
+
+-----------
+
+### License
+Check the license: [Here](./LICENSE).
+
+-----------
+
+### Created for KeyAuth Authentication
+- KeyAuth - [Here](https://keyauth.cc)
