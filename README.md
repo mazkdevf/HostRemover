@@ -1,18 +1,15 @@
-## HostRemover
+# HostRemover
 
-- Fix KeyAuth Connection Issues, For example if you are getting (Hello!) Message.
+- Address connectivity challenges, specifically targeting instances where users encounter the "Hello!" message.
 
+## Contributing
 
-
-### Contributing
-1. Fork the repository
-2. Clone the repository to folder
-3. Do your changes
-4. Test your Code
-5. Create Pull Request
-6. Thank You!
-
------------
+1. **Fork the Repository**: Make a personal copy of the repository.
+2. **Clone the Repository to Your Local Folder**: Create a local working copy on your machine.
+3. **Implement Your Changes**: Contribute to the project by making the necessary adjustments.
+4. **Thoroughly Test Your Code**: Ensure the changes are robust and error-free.
+5. **Create a Pull Request**: Submit your modifications for review and integration.
+6. **Your Contributions Are Highly Appreciated!**
 
 ## Copyright License
 
@@ -32,7 +29,5 @@ to applicable law.
 
 Thank you for your compliance, we work hard on the development of KeyAuth and do not appreciate our copyright being infringed.
 
------------
-
-### Created for KeyAuth Authentication
-- KeyAuth - [Here](https://keyauth.cc)
+## Created for KeyAuth Authentication
+- Explore KeyAuth [Here](https://keyauth.cc)
